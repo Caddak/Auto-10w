@@ -1,0 +1,8 @@
+{
+    "name": "Auto Navigation Mode",
+    "author": "Caddak",
+    "version": "0.5.0",
+    "description": "Ajusta automaticamente o TDP para 10W quando nenhum jogo está em execução.",
+    "icon": "resources/icon.png",
+    "main": "main.py"
+  }
